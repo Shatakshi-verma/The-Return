@@ -7,7 +7,7 @@
 
 <h2 align="center"> Working Demo & GDD</h2> 
 
-![Demo1](https://youtu.be/KQA0pzmoHgk)
+youtube video : https://youtu.be/KQA0pzmoHgk
 
 
 <h2 align="center"> Design Document </h2>  
