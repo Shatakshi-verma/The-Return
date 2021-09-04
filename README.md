@@ -5,7 +5,7 @@
 
 <h2 align="center"> This project was made in purpose for the Xamk Open University credited game design course.</h2>  
 
-<h2 align="center"> Working Demo & GDD</h2> 
+<h2 align="center"> Working Demo</h2> 
 
 youtube video : https://youtu.be/KQA0pzmoHgk
 
